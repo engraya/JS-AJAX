@@ -102,7 +102,7 @@ function postDataFunction() {
 function putDataFunction() {
     const putUser = {
         name: "Mehmet",
-        profession: "Doctor",
+        profession: "Programer",
     }
 
     const serverRequest = new XMLHttpRequest();
